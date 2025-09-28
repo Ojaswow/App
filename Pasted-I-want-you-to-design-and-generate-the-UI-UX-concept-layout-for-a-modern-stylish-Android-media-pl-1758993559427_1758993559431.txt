@@ -1,0 +1,128 @@
+I want you to design and generate the UI + UX concept + layout for a modern stylish Android media player app that combines a futuristic video player and a gallery-style photo viewer.
+The app must look premium, minimal, and aura-rich with smooth animations and elegant design.
+
+
+---
+
+🎨 Theme & Aesthetic:
+
+Style Options:
+
+Glassmorphism style → transparent frosted panels with glowing edges.
+
+Golden Royal theme → black + golden gradients with shiny animations.
+
+Neon Cyberpunk theme → dark background with neon pink/blue/purple glow.
+
+
+Soft shadows, rounded corners (2xl), smooth transitions.
+
+Minimal modern typography (Roboto / Poppins / Montserrat).
+
+
+
+---
+
+🎬 Video Player Features:
+
+1. Main Player Screen
+
+Floating control buttons (play, pause, forward, backward).
+
+Gesture controls (brightness, volume, seek).
+
+Animated progress bar with gradient glow.
+
+Video title shown in clean, minimal text at top.
+
+
+
+2. Mini Player / Bubble Mode
+
+Draggable small floating video player.
+
+Expand animation to full-screen.
+
+
+
+3. Playlist / Video Library
+
+Grid or card thumbnails with hover/glow animations.
+
+Categories → Recently Played, Favorites, Downloads.
+
+
+
+
+
+---
+
+🖼️ Gallery / Photo Viewer Features:
+
+1. Gallery Home
+
+Grid layout with stylish rounded thumbnails.
+
+Sorting options → By Date, Albums, Favorites.
+
+Smooth hover and zoom-in animation when selecting a photo.
+
+
+
+2. Photo Viewer Screen
+
+Pinch to zoom, swipe left/right to navigate photos.
+
+Background blur or glowing aura based on photo colors.
+
+Minimal overlay controls (slideshow, favorite, delete).
+
+
+
+3. Unified Library (Photos + Videos)
+
+One combined media gallery where both photos & videos are shown.
+
+Thumbnails should have video icon overlay for videos and clean border for photos.
+
+Tapping opens in respective viewer (Video → Player, Photo → Gallery Viewer).
+
+
+
+
+
+---
+
+📱 Screens Needed:
+
+1. Splash Screen → Logo animation (glass / neon / gold).
+
+
+2. Home Screen → Tabs or toggle for Videos | Photos | All Media.
+
+
+3. Video Player Screen → Stylish floating controls.
+
+
+4. Photo Viewer Screen → Pinch, zoom, swipe, slideshow mode.
+
+
+5. Library Grid View → Combined gallery for both photos & videos.
+
+
+6. Settings Screen → Minimal switches (theme, privacy, gestures).
+
+
+
+
+---
+
+✨ UI/UX Guidelines:
+
+Aura-rich themes (Glass, Gold, Neon) with option to switch.
+
+Smooth page transitions + subtle animations.
+
+Floating action buttons (FAB) with glowing or glassy effect.
+
+Keep interface minimal yet futuristic.
